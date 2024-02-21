@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talal Zafar</h1>
-<h3 align="center">3rd Year Software Engineering Undergard & a Full-Stack Developer</h3>
+<h3 align="center">Junior Year Software Engineering Undergard & a Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talalzafar16&label=Profile%20views&color=0e75b6&style=flat" alt="talalzafar16" /> </p>
 
@@ -27,3 +27,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talalzafar16&show_icons=true&locale=en" alt="talalzafar16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talalzafar16&" alt="talalzafar16" /></p>
+
+<hr/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talalzafar16&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
