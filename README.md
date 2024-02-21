@@ -12,7 +12,7 @@
 - 💬 Ask me about **React, Next, Metaverse & Gen Ai**
 
 - 📫 How to reach me **talalzafar84@gmail.com**
-
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/talal-16-zafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talal-16-zafar" height="30" width="40" /></a>
