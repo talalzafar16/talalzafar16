@@ -1,4 +1,3 @@
-  ![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhjNjBtdjJ1eGE3bnNscWtma3BlcGY3ZnR6dXE1MXhzdGRkb3VsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C7l38dCPSgz6mPiDgQ/giphy.gif)
 <h1 align="center">Hi 👋, I'm Talal Zafar</h1>
 <h3 align="center">Junior Year Software Engineering Undergard & a Full-Stack Developer</h3>
 
